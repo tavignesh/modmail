@@ -1,7 +1,7 @@
 {
     "name": "Modmail",
-    "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
-    "repository": "https://github.com/kyb3r/modmail",
+    "description": "An easy to use Modmail bot for Discord - DM to contact mods!",
+    "repository": "https://github.com/tavignesh",
     "env": {
         "TOKEN": {
             "description": "Your discord bot's token.",
